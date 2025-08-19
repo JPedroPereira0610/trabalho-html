@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.cab1
+{
+  color: black;
+  text-decoration: none;
+}
+
+.cab1:hover
+{
+    color: blue
+}

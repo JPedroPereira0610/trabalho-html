@@ -1,0 +1,27 @@
+.receita
+{
+    background-color: rgb(207, 203, 203);
+}
+
+
+
+ul
+{
+    list-style:square;
+    border:crimson solid;
+    font-size: 30px;
+    color: red;
+}
+
+ol
+{
+     border:crimson solid;
+    font-size: 30px;
+    list-style: decimal;
+    color: red;
+}
+
+i
+{
+    color: black;
+}
